@@ -18,6 +18,7 @@ background: https://sli.dev/demo-cover.png
 ---
 layout: cover
 ---
+
 ## Site # 1 Artificial Analysis
 ![leaderboard](/aa_2025-05-09.png)
 
@@ -99,14 +100,18 @@ layout: cover
 - **DeepSeek V3**: Notable open-source contender.
 
 ---
+layout: two-cols
+--- 
 
-## ✅ Conclusion
+# Get the slides
 
-- **Model Selection**:
-  - Consider use-case requirements.
-  - Balance between quality, cost, and performance.
-- **Benchmarking**:
-  - Use multiple sources for a comprehensive view.
-  - Stay updated with evolving model capabilities.
+  <img src="/qr_slides.png" alt="QR code for slides on web" style="width: 50%;">
 
----
+
+::right::
+
+# Connect with me
+
+  <img src="/bit.ly_jeffhaleli.png" alt="QR code for my LinkedIn" style="width: 50%;">
+
+
